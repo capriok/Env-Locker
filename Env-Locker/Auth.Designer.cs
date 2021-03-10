@@ -1,4 +1,4 @@
-﻿
+
 namespace Env_Locker
 {
     partial class Auth
@@ -250,7 +250,7 @@ namespace Env_Locker
             this.ButtonRefresh.FlatAppearance.BorderSize = 0;
             this.ButtonRefresh.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ButtonRefresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.ButtonRefresh.ForeColor = System.Drawing.Color.White;
+            this.ButtonRefresh.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.ButtonRefresh.Location = new System.Drawing.Point(13, 13);
             this.ButtonRefresh.Name = "ButtonRefresh";
             this.ButtonRefresh.Size = new System.Drawing.Size(25, 25);
@@ -294,7 +294,7 @@ namespace Env_Locker
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
             this.ClientSize = new System.Drawing.Size(432, 553);
             this.Controls.Add(this.TextPass);
             this.Controls.Add(this.ButtonRefresh);
