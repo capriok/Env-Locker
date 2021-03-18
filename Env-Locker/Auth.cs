@@ -21,7 +21,6 @@ namespace Env_Locker
 
         List<int> password = new List<int>(4) { 1, 2, 3, 4 };
         List<int> userInput = new List<int>(4) { 1, 2, 3, 4 };
-
         List<string> pinDots = new List<string>(4);
 
         private void Auth_Load(object sender, EventArgs e)
